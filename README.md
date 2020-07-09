@@ -3,7 +3,7 @@ ALU 74181 implemented by Neural Networks with 100% accuracy.
 
 ## ALU 74181
 > The 74181 is a 4-bit slice arithmetic logic unit (ALU). 
-> It was used as the arithmetic/logic core in the CPUs of many historically significant minicomputers and other devices.
+> It was used as the arithmetic/logic core in the CPUs of many historically significant minicomputers and other devices.  
 [quote source](https://en.wikipedia.org/wiki/74181)
 ![Arithmetic Logic Circuit of 74181](/img/74181aluschematic.png)
 [img source](https://en.wikipedia.org/wiki/74181)
