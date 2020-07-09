@@ -1,5 +1,6 @@
 # neural_ALU_74181
-ALU 74181 implemented by Neural Networks with 100% accuracy.
+ALU 74181 implemented by Neural Networks with 100% accuracy. It is fully differentiable.  
+This repo uses PyTorch to implement the model.
 
 ## ALU 74181
 > The 74181 is a 4-bit slice arithmetic logic unit (ALU).  
